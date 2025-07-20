@@ -8,8 +8,9 @@
 
 <p align="left">
 ✨ Creating bugs since 2022<br>
-📚 Currently learning AI/ML concepts<br>
-🎯 Goal: Bring value to potential clients by solving real problems<br>
+📚 Currently sharpening my skills in Cloud, AI/ML concepts<br>
+🎯 Goal: Solve real problems & bring real value to customer using code<br>
+🎯 Stack: Developing full stack applications with mainly: MERN Stack, JAVA, Python, and PHP.<br>
 🎲 Fun fact: I’ve lived in three countries and love discovering how tech is shaping the world in different cultures.
 </p>
 
