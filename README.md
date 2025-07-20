@@ -42,7 +42,10 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/rochapetoh" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" width="30" alt="LinkedIn" />
-  </a>
+  </a> 
+  <br/> <a href="https://roch-dev.me/portfolio/" > My website </a>
+  <br> <a href="mailto: rochapetoh@hotmail.com" > Email me </a>
+  <br/> Or contact me directly at: +1 (319) 320 8147
 </div>
 
 ---
